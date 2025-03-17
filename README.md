@@ -4,7 +4,7 @@
 
 <h4 align="center">Learning Distributions of Complex Fluid  Simulations with Diffusion Graph Networks (ICLR2025 - ⭐ Oral ⭐)</h4>
 
-<h6 align="center"><img src="https://i.ibb.co/NNvNGCz/pngfind-com-more-button-png-6671010.png" width="16"> <a href="https://qiauil.github.io/">Mario Lino</a>, <img src="https://i.ibb.co/3hc9dTt/google-deepmind-ea6c104d05.webp" width="14"> <a href="https://rachelcmy.github.io/">Tobias Pfaff</a> and <img src="https://i.ibb.co/NNvNGCz/pngfind-com-more-button-png-6671010.png" width="16"> <a href="https://ge.in.tum.de/about/n-thuerey/">Nils Thuerey</a></h6>
+<h6 align="center"><img src="https://i.ibb.co/NNvNGCz/pngfind-com-more-button-png-6671010.png" width="16"> <a href="https://ge.in.tum.de/about/mario-lino/">Mario Lino</a>, <img src="https://i.ibb.co/3hc9dTt/google-deepmind-ea6c104d05.webp" width="14"> <a href="https://tobiaspfaff.com/">Tobias Pfaff</a> and <img src="https://i.ibb.co/NNvNGCz/pngfind-com-more-button-png-6671010.png" width="16"> <a href="https://ge.in.tum.de/about/n-thuerey/">Nils Thuerey</a></h6>
 
 <h6 align="center">
     <img src="https://i.ibb.co/NNvNGCz/pngfind-com-more-button-png-6671010.png" width="16"> Technical University of Munich
