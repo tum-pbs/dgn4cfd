@@ -1,0 +1,18 @@
+
+dataset: unifoil
+data_root: data/unifoil
+processed_dir: proc
+train:
+  batch_size: 1
+  epochs: 1         # smoke test; increase later
+  num_steps: 50     # diffusion steps
+model:
+  name: LDGN        # or DGN, VanillaGNN
+  out_channels: 3   # u,v,Cp
+  num_scales: 5
+  hidden_dim: 128
+features:
+  node_condition_dim: 6  # [Re,Ma,AoA] + one-hot(3)
+  edge_dim: 2            # [dx,dy] (add U_inf projection later)
+logging:
+  out_dir: runs/unifoil_smoke

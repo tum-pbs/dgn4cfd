@@ -1,0 +1,5 @@
+
+split,id,cgns_path,Re,Mach,AoA
+train,case_0001,/abs/path/to/unifoil/FT/case0001.cgns,1.0e6,0.2,2.0
+val,case_0101,/abs/path/to/unifoil/FT/case0101.cgns,1.0e6,0.2,4.0
+test,case_0201,/abs/path/to/unifoil/FT/case0201.cgns,1.0e6,0.2,6.0

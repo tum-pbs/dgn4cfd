@@ -1,0 +1,17 @@
+
+name: dgn4cfd-unifoil
+channels: [conda-forge, pytorch, nvidia]
+dependencies:
+  - python=3.10
+  - pytorch>=2.2
+  - pytorch-cuda=12.1  # if on NVIDIA; remove if CPU only
+  - pyg=2.5.*
+  - cuda-version=12.1  # optional
+  - pip
+  - pip:
+      - meshio>=5.3
+      - numpy
+      - pandas
+      - scipy
+      - matplotlib
+      - tqdm
