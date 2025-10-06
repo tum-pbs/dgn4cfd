@@ -1,5 +1,14 @@
 
 # UniFoil → DGN4CFD Integration (Scaffold)
+This repo adds a **UniFoil dataset adapter** to DGN4CFD. You only need the **dataset files** (CGNS + case table). No need to clone UniFoil code.
+
+## Prereqs
+- Linux/WSL2 with Conda (Miniconda/Anaconda).
+- (Optional) NVIDIA GPU visible in WSL via `nvidia-smi`.
+
+## Dataset layout
+Put a few `.cgns` files somewhere stable (absolute paths recommended), e.g.:
+
 
 This folder contains a minimal, **drop-in** extension to plug the [UniFoil](https://github.com/rohitroxkp7/UniFoil) airfoil dataset into the [DGN4CFD](https://github.com/tum-pbs/dgn4cfd) training pipeline.
 
