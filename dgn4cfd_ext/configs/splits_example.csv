@@ -1,5 +1,4 @@
-
 split,id,cgns_path,Re,Mach,AoA
-train,case_0001,/abs/path/to/unifoil/FT/case0001.cgns,1.0e6,0.2,2.0
-val,case_0101,/abs/path/to/unifoil/FT/case0101.cgns,1.0e6,0.2,4.0
-test,case_0201,/abs/path/to/unifoil/FT/case0201.cgns,1.0e6,0.2,6.0
+train,case_0001,/mnt/d/dgn4unifoil/raw/airfoil_1_G2_A_L0_case_0_000_surf_turb.cgns,1.0e6,0.20,0.0
+val,case_0002,/mnt/d/dgn4unifoil/raw/airfoil_1_G2_A_L0_case_2_000_surf_turb.cgns,1.0e6,0.20,2.0
+test,case_0003,/mnt/d/dgn4unifoil/raw/airfoil_1_G2_A_L0_case_6_000_surf_turb.cgns,1.0e6,0.20,6.0
