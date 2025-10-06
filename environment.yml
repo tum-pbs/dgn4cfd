@@ -1,0 +1,13 @@
+name: dgn4cfd-unifoil
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - tqdm
+  - pytest
+  - meshio
