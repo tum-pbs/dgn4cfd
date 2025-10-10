@@ -30,4 +30,8 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 # Sphinx documentation
-docs/_build/
+docs/_build/integrations/unifoil/data/raw/
+integrations/unifoil/data/processed/
+integrations/unifoil/**/__pycache__/
+integrations/unifoil/**/*.ckpt
+integrations/unifoil/**/runs/
