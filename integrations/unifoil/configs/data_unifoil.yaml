@@ -1,7 +1,7 @@
 roots:
   raw: integrations/unifoil/data/raw
   processed: integrations/unifoil/data/processed
-splits: {train: 0.8, val: 0.1, test: 0.1}
+splits: {train: 0.7, val: 0.15, test: 0.15}
 features:
   include_wall_distance: false
   include_freestream_projection: true
