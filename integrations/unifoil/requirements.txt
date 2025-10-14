@@ -1,0 +1,8 @@
+torch
+torch-geometric
+numpy
+scipy
+matplotlib
+meshio
+pyvista
+tqdm

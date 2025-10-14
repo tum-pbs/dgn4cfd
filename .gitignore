@@ -1,33 +1,13 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+# UniFoil raw & processed CFD data (do NOT commit)
+integrations/unifoil/data/raw/
+integrations/unifoil/data/processed/
+integrations/unifoil/data/**/*.cgns
+integrations/unifoil/data/**/*.h5
+integrations/unifoil/data/**/*.pt
+integrations/unifoil/data/**/*.vtu
 
-# Datasets
-*.h5
-
-# VTK files
-*.vtk
-
-# Virtual environments
-venv/
-.env/
-env/
-
-# Logs and debug files
-*.log
-*.out
-*.err
-
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# Distribution / packaging
-*.egg-info/
-
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
-
-# Sphinx documentation
-docs/_build/
+# Python cache & notebook junk
+**/__pycache__/
+**/*.pyc
+**/.ipynb_checkpoints/
+.DS_Store

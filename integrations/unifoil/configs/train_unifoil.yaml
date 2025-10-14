@@ -1,0 +1,4 @@
+model: {target_dim: 3, multiscale_levels: 4}
+train: {batch_size: 4, epochs: 100, lr: 1e-4, ema: true, diffusion_steps: 1000}
+sample: {steps: 50}
+device: auto
